@@ -1,2 +1,2 @@
-# rectanglefang
-计算矩形周长面积
+# rectangle
+计算矩形的周长和面积
